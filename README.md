@@ -1,25 +1,25 @@
-# Eternity计划
+# Eternity
 
-时间没有逝去.
+从来没有逝去, 发生即永恒.
 
-在不同时空里, 事件还在往复和持续.
+在不同时空里, 还在产生无限可能.
 
-Eternity计划包含不同的子项目, 主要目标是实现和模拟其他时空; 记录发生过的事, 来维持不朽.
+Eternity计划, 目标是通过电子途径和现实措施, 模拟其他时空, 弥补人为不足, 来维持不朽.
 
 
 ## Art
 
-[Art](https://github.com/eternity-est/art) 项目收录二次创作和原创美术作品.
+[Art](https://github.com/eternity-est/art) 项目收录原创和二次创作美术作品.
 
 
 ## Playlists
 
-[Playlists](https://github.com/eternity-est/playlists) 项目尽可能收录所有能收录的相关歌曲.
+[Playlists](https://github.com/eternity-est/playlists) 项目尽可能收录所有相关歌曲.
 
 
 ## LIVE
 
-[LIVE](https://github.com/eternity-est/LIVE) 是一个直播间项目. 在此时空内仿真和复原记忆. 
+[LIVE](https://github.com/eternity-est/LIVE) 项目通过网络直播方式来仿真其他时空. 
 
 
 ## Time Machine
