@@ -1,22 +1,22 @@
 # Eternity
 
-存在有无数的世界和时空.
+存在无数的世界和时空.
 
 这个世界只是其中之一.
 
-从来没有逝去, 发生即永恒.
+Eternity计划目标是通过各种方法, 将不可能之事变为可能, 弥补遗憾, 实现美好.
 
-Eternity计划分为若干子项目, 目标通过电子途径和现实措施, 模拟其他时空, 弥补人为不足, 来维持不朽.
+根据工作类别, 组织管理需求, 和其他情况, 计划由不同的子项目组成.
 
 
 ## Art
 
-[Art](https://github.com/eternity-est/art) 项目收录原创和二次创作美术作品.
+[Art](https://github.com/eternity-est/art) 项目 收录原创和改编美术作品.
 
 
 ## Playlists
 
-[Playlists](https://github.com/eternity-est/playlists) 项目尽可能收录所有相关歌曲.
+[Playlists](https://github.com/eternity-est/playlists) 项目收录精选歌曲.
 
 
 ## LIVE
@@ -26,4 +26,4 @@ Eternity计划分为若干子项目, 目标通过电子途径和现实措施, �
 
 ## Time Machine
 
-这是一个微信公众号, 收录发生过的趣事.
+这是一个微信公众号, 收录往事, 更新现况.
